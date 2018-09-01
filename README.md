@@ -9,7 +9,7 @@ Once you've cloned, just navigate to the folder that you have cloned and you're 
 There are only four tutorials on CLIPS in this subject.
 
 ## Report
-Softcopy for the entire assignment. [Click here](https://docs.google.com/document/d/1OPfEpSsi3fo3KtXJXrVl5oeOD03I0qlBwJKO0LNyf1A/edit?usp=sharing)
+Softcopy for the entire assignment. <a href="https://docs.google.com/document/d/1OPfEpSsi3fo3KtXJXrVl5oeOD03I0qlBwJKO0LNyf1A/edit?usp=sharing" target="_blank">Click here.</a>
 
 
 ## Tutorials
