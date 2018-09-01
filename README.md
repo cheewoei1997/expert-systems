@@ -16,44 +16,26 @@ Softcopy for the entire assignment. [Click here](https://docs.google.com/documen
 ### Facts and Rules
 The very core of complicated if-else statements.
 
-1. [Simple Scalar Operations](../master/1.%20Basics/simplescalaroperations.m) simplescalaroperations.m
-2. [Creating a Vector/Matrix](../master/1.%20Basics/createvectormatrix.m) createvectormatrix.m
-3. [Indexing](../master/1.%20Basics/indexing.m) indexing.m
-4. [Matrix Operators](../master/1.%20Basics/matrixoperators.m) matrixoperators.m
-5. [for/while Loops](../master/1.%20Basics/loops.m) loops.m
-6. [Functions vs. Scripts](../master/1.%20Basics/functionsvsscripts.m) functionsvsscripts.m
-7. [Plotting](../master/1.%20Basics/plotting.m) plotting.m
-8. [Images](../master/1.%20Basics/images.m) images.m
+1. [First fact](../master/1.%20Facts%20and%20Rules/firstfact.clp) firstfact.clp  
+Create your very first fact here.
+2. [More facts](../master/1.%20Facts%20and%20Rules/facts.clp) facts.clp
 
 ### Patterns and Actions
 Create knowledge stuff similar to objects.
 
-1. [Sampling](../master/2.%20Sampling,%20Quantization,%20Resolution/sampling.m) sampling.m  
-    The play of pixels on an image to resize them. This effect will usually cause the checkerboard effect.
-2. [Quantization](../master/2.%20Sampling,%20Quantization,%20Resolution/quantization.m) quantization.m  
-    Manipulation on the number of gray levels on an image to simplify the image.
-3. [Resolution](../master/2.%20Sampling,%20Quantization,%20Resolution/resolution.m) resolution.m  
-    The use of filters with values of ones to demonstrate gaussian blurring.
+1. [Patterns](../master/2.%20Patterns%20and%20Actions/sampling.m) [filename].clp
 
 ### Wildcard Patterns
 Accept random arguments to perform searches similar to loop.
 
-1. [Contrast Stretching and Histogram Equalization](../master/3.%20Smoothening%20and%20Histogram%20Manipulation/contraststretchhistoequal.m) contraststretchhistoequal.m  
-    Contrast stretching vs. histogram equalization.
-2. [Quantization](../master/3.%20Smoothening%20and%20Histogram%20Manipulation/convoandmedianfilter.m) convoandmedianfilter.m  
-    Convolutional filters seem to not be as good as median filters in noise cleanup.
-3. [Resolution](../master/3.%20Smoothening%20and%20Histogram%20Manipulation/difference.m) difference.m  
-    Subtracting the background of an image to obtain the region of interest.
+1. [Wildcards](../master/3.%20Wildcard%20Patterns/[filename].clp) [filename].clp  
+[Introduction].clp
 
 ### Templates and Conditions
 Creating frameworks to build stuff. Concept similar to abstract class.
 
-1. [Implementing Noise Model](../master/4.%20Noise/addnoise.m) addnoise.m  
-    Simulate noise in your image by adding them because who even likes clear images.
-2. [Noise Reduction](../master/4.%20Noise/reducenoise.m) reducenoise.m  
-    Adding noise and removing them from the original image.
-3. [Simulating a Motion Blur Effect](../master/4.%20Noise/motionblur.m) motionblur.m  
-    Simulate a motion blur then use Wiener filter to deblur the image.
+1. [Template](../master/4.%20Templates%20and%20Conditions/[filename].clp) [filename].clp  
+[Introduction]
 
 ## Credits
 * Dr. Lee Chin Poo
